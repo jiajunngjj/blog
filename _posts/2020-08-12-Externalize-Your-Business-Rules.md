@@ -1,7 +1,7 @@
 ---
 title: "Externalize Your Business Rules with Red Hat Decision Manager"
 tags: [redhat, decision manager, drools, jboss, appdev]
-permalink: /:year/:month/:day/quarkus-openshift-serverless
+permalink: /:year/:month/:day/externalize-your-business-rules
 ---
 ![Red Hat Decision Manager](https://user-images.githubusercontent.com/25560159/90093092-4d7dab80-dd5d-11ea-842d-2839045814cb.png)
 
