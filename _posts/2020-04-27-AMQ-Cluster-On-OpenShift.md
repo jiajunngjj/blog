@@ -1,6 +1,11 @@
 ---
 title: "AMQ Messaging on OpenShift"
-tags: [redhat, openshift, amq, broker, messaging, event-driven]
+tags: 
+  - redhat
+  - openshift
+  - amq broker
+  - messaging
+  - event-driven
 permalink: /:year/:month/:day/amq-openshift
 ---
 More companies are moving towards a microservices approach for their new applications.

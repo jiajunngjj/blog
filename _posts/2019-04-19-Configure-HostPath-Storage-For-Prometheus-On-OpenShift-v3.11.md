@@ -1,6 +1,10 @@
 ---
 title: "Configure HostPath Storage For Prometheus on OpenShift v3.11"
-tags: [redhat, openshift, prometheus, openshift-monitoring]
+tags: 
+  - redhat
+  - openshift
+  - prometheus
+  - openshift monitoring
 permalink: /:year/:month/:day/prometheus-openshift
 ---
 This post covers the configuration of persistent storage with HostPath for OpenShift Monitoring stack.

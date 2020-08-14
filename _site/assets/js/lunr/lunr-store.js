@@ -1,13 +1,13 @@
 var store = [{
         "title": "Configure HostPath Storage For Prometheus on OpenShift v3.11",
         "excerpt":"This post covers the configuration of persistent storage with HostPath for OpenShift Monitoring stack. In OpenShift v3.11, Prometheus cluster monitoring is now fully supported and deployed by default. As the monitoring stack is fairly new, there are many on-going discussions on supported storage plugins. And the documentation does not cover...","categories": [],
-        "tags": ["redhat","openshift","prometheus","openshift-monitoring"],
+        "tags": ["redhat","openshift","prometheus","openshift monitoring"],
         "url": "http://localhost:4000/2019/04/19/prometheus-openshift",
         "teaser": null
       },{
         "title": "AMQ Messaging on OpenShift",
         "excerpt":"More companies are moving towards a microservices approach for their new applications. This approach suits today’s increasingly distributed hybrid cloud and multi-cloud IT infrastructures. Thanks to advances in container orchestration platform, it is easier to edge away from traditional monolithic applications towards distributed and highly-available microservices. Microservices approach would mean...","categories": [],
-        "tags": ["redhat","openshift","amq","broker","messaging","event-driven"],
+        "tags": ["redhat","openshift","amq broker","messaging","event-driven"],
         "url": "http://localhost:4000/2020/04/27/amq-openshift",
         "teaser": null
       },{

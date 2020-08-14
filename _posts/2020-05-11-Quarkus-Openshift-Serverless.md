@@ -1,6 +1,13 @@
 ---
 title: "Quarkus, a lightweight Java for Serverless"
-tags: [redhat, openshift, serverless, quarkus, java, event-driven, knative]
+tags:
+  - redhat
+  - openshift
+  - serverless
+  - quarkus
+  - java
+  - event-driven 
+  - knative
 permalink: /:year/:month/:day/quarkus-openshift-serverless
 ---
 Java has been around for more than 20 years and is still popular among developers today. However, with the digital landscape moving towards cloud, Java
